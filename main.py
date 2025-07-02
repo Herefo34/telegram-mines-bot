@@ -2,7 +2,7 @@ import random
 from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 
-API_TOKEN = 'YOUR_BOT_TOKEN_HERE'  # ← Այստեղ դիր քո բոտի Token-ը
+API_TOKEN = '7386380333:AAE0giVzCDeH6Hcouf5AIPY9wrhw0stOzWA'
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
